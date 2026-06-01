@@ -1,5 +1,5 @@
 baseURL = "https://korean-wandereats.github.io"
-title = "Korean Palate - Global Restaurant Reviews"
+title = "Korean Wandereats - Global Restaurant Reviews"
 theme = "PaperMod"
 defaultContentLanguage = "en"
 enableRobotsTXT = true
@@ -13,7 +13,7 @@ buildFuture = false
   [languages.en]
     languageName = "English"
     weight = 1
-    title = "Korean Palate - Global Restaurant Reviews"
+    title = "Korean Wandereats - Global Restaurant Reviews"
     [languages.en.params]
       description = "Honest global restaurant reviews from a Korean traveler's perspective"
   [languages.es]
@@ -31,7 +31,7 @@ buildFuture = false
 
 [params]
   env = "production"
-  author = "Korean Palate"
+  author = "Korean Wandereats"
   defaultTheme = "auto"
   ShowReadingTime = true
   ShowShareButtons = true
@@ -42,7 +42,7 @@ buildFuture = false
   images = ["/images/og-image.jpg"]
 
 [params.homeInfoParams]
-  Title = "Korean Palate 🍜"
+  Title = "Korean Wandereats 🍜"
   Content = "Honest global restaurant reviews from a Korean food lover. Rated by taste, texture, umami, and value."
 
 [[params.socialIcons]]
