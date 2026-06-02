@@ -8,7 +8,7 @@ tags = ["sandiego", "restaurant-review"]
 countries = ["USA"]
 cities = ["Sandiego"]
 rating = 4
-cover.image = ""
+cover.image = "/images/restaurants/ironside-fish-oyster-sandiego-review/ironside-fish-&-oyster_1.jpeg"
 cover.alt = "Ironside Fish & Oyster - Sandiego"
 +++
 
