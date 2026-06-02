@@ -11,19 +11,19 @@ buildFuture = false
 
 [languages]
   [languages.en]
-    languageName = "English"
+    label = "English"
     weight = 1
     title = "Korean Wandereats - Global Restaurant Reviews"
     [languages.en.params]
       description = "Honest global restaurant reviews from a Korean traveler's perspective"
   [languages.es]
-    languageName = "Español"
+    label = "Español"
     weight = 2
     title = "Korean Palate - Reseñas de Restaurantes"
     [languages.es.params]
       description = "Reseñas honestas de restaurantes globales desde la perspectiva de un viajero coreano"
   [languages.pt]
-    languageName = "Português"
+    label = "Português"
     weight = 3
     title = "Korean Palate - Avaliações de Restaurantes"
     [languages.pt.params]
