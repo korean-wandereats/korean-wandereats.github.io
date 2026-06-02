@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://korean-wandereats.github.io/sitemap.xml
